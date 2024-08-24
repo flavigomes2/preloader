@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'preloaderheart.json',
+        path: 'https://flavigomes2.github.io/preloader/preloaderheart.json',
     });
 }
 
